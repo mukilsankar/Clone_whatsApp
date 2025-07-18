@@ -132,7 +132,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
                 title: Text("WhatsApp",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 18),),
                 subtitle: Text("✓✓you:welcome!",style: TextStyle(fontSize: 15),),
-                trailing: Text('10.40',style: TextStyle(fontSize: 14),),
+                trailing: Text('10.50',style: TextStyle(fontSize: 14),),
               ),
             ],
           
